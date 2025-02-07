@@ -21,9 +21,9 @@ public class Socialmedia
     }
 }
 
-class Program
+public class Program
 {
-    static void Main()
+    public void Main()
     {
         Socialmedia obj1 = new Socialmedia();
 
